@@ -15,7 +15,7 @@ print("Hello from [your name].")
 ```
 
 * Create a pull request to add this code to the repository.
-* In the comments for the pull request, note your preference for a Section assignment.  If you already have an officially assigned Section, note that instead and verify which one.
+* In the comments for the pull request, note your preference for a Section assignment (M or F).  If you already have an officially assigned Section, note that instead and verify which one.
 * In the comments for the pull request, also add "Closes #[number]" where [number] corresponds to the Issue number with your name.
 * Do not include any additional personal information!
 
