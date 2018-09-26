@@ -4,7 +4,7 @@ A fun but convoluted way to make sure everyone in ASTR 119 has a Section!
 
 ## Here are your instructions:
 
-* Look at the Issues tab.  Find your name in the list of issues, and note the corresponding issue number.
+* Look at the Issues tab.  Find your name in the list of issues, and note the corresponding issue number. If you don't see your name, scroll down to click "Next" to advance the page or try searching your name in the search field.
 * Go to the Code tab, and create a branch "firstname-lastinitial-section".
 * Upload a python program called "hello-world-firstname-lastinitial.py"
 
