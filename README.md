@@ -20,6 +20,6 @@ print(Hello from [your name].
 * Do not include any additional personal information!
 
 * I will merge the pull request and note which Section you are assigned to (you may not get your first choice!).
-
+* Also feel free to note which name and pronouns you prefer.
 
 ### This homework is due on Tuesday 10/2 by 9am
