@@ -11,7 +11,7 @@ A fun but convoluted way to make sure everyone in ASTR 119 has a Section!
 ```
 #/usr/bin/env python3
 
-print(Hello from [your name].
+print("Hello from [your name].")
 ```
 
 * Create a pull request to add this code to the repository.
