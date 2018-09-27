@@ -17,7 +17,7 @@ A fun but convoluted way to make sure everyone in ASTR 119 has a Section!
 print("Hello from [your name].")
 ```
 
-* Create a pull request to add this code to the repository.
+* Create a under the "Code tab", click pull request to add this code to the repository.
 
 * In the comments for the pull request, note your preference for a Section assignment (M or F).  If you already have an officially assigned Section, note that instead and verify which one.
 
