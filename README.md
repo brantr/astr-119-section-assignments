@@ -17,7 +17,7 @@ A fun but convoluted way to make sure everyone in ASTR 119 has a Section!
 print("Hello from [your name].")
 ```
 
-* Create a under the "Code tab", click the "New pull request" button to request that I merge your forked branch into my repository.
+* Click the "Code" tab to refresh the screen, and click the "New pull request" button to request that I merge your forked branch into my repository.
 
 * In the comments for the pull request, note your preference for a Section assignment (M or F).  If you already have an officially assigned Section, note that instead and verify which one.
 
