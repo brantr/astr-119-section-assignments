@@ -6,7 +6,7 @@ A fun but convoluted way to make sure everyone in ASTR 119 has a Section!
 
 * Look at the Issues tab.  Find your name in the list of issues, and note the corresponding issue number. If you don't see your name, scroll down to click "Next" to advance the page or try searching your name in the search field.
 
-* Go to the Fork button in the upper right hand corner to create a branch in your account.
+* Go to the Fork button in the upper right hand corner to create a branch in your account.  You can edit this forked branch, it exists in your account and not mine.
 
 
 * Upload a python program called "hello-world-firstname-lastinitial.py"
@@ -17,7 +17,7 @@ A fun but convoluted way to make sure everyone in ASTR 119 has a Section!
 print("Hello from [your name].")
 ```
 
-* Create a under the "Code tab", click pull request to add this code to the repository.
+* Create a under the "Code tab", click pull request to request that I merge your forked branch into my repository.
 
 * In the comments for the pull request, note your preference for a Section assignment (M or F).  If you already have an officially assigned Section, note that instead and verify which one.
 
