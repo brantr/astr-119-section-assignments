@@ -22,4 +22,6 @@ print("Hello from [your name].")
 * I will merge the pull request and note which Section you are assigned to (you may not get your first choice!).
 * Also feel free to note which name and pronouns you prefer.
 
+### If you don't see your name listed, please submit and issue or email us at astr-119-f18-group@ucsc.edu.
+
 ### This homework is due on Tuesday 10/2 by 9am
