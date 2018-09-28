@@ -19,7 +19,7 @@ print("Hello from [your name].")
 
 * Click the "Code" tab to refresh the screen, and click the "New pull request" button to request that I merge your forked branch into my repository.
 
-* In the comments for the pull request, note your preference for a Section assignment (M or F).  If you already have an officially assigned Section, note that instead and verify which one.
+* In the comments for the pull request, note your preference for a Section assignment (M or F).  If you already have an officially assigned Section, note that instead (no need to tell me which one).
 
 * In the comments for the pull request, also add "Closes #[number]" where [number] corresponds to the Issue number with your name.
 
