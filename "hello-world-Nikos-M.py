@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-print("Hello from [your name].")
+print("Hello from [Nikos Mynhier].")
