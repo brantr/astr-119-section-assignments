@@ -21,7 +21,7 @@ print("Hello from [your name].")
 
 * In the comments for the pull request, note your preference for a Section assignment (M or F).  If you already have an officially assigned Section, note that instead (no need to tell me which one).
 
-* In the comments for the pull request, also add "Closes #[number]" where [number] corresponds to the Issue number with your name.
+* In the comments for the pull request, also add "Closes #[number]" where [number] corresponds to the Issue number with your name. (Don't include the [] -- just us #1 or #2, etc)
 
 * Do not include any additional personal information!
 
