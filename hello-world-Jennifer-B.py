@@ -8,6 +8,6 @@ Visit http://www.python.org/download/mac/tcltk/ for current information.
 >>> #!/usr/bin/env python3
 
 #this program will write
-"Hello from JenniferB
+#Hello from JenniferB
 
 print("Hello from JenniferB.")
