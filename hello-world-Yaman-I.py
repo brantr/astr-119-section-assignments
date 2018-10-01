@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
 
-#this program will write
-#Hello World!
+print("Hello from Yaman")
 
-print("Hello World!")
